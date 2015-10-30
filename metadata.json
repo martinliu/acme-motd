@@ -1,0 +1,14 @@
+{
+  "name": "acme-motd",
+  "version": "0.1.0",
+  "author": "Martin Liu",
+  "summary": "For SOE Demo, in Martin's Xen lab.",
+  "license": "Apache 2.0",
+  "source": "https://github.com/martinliu/acme-motd",
+  "project_page": "https://github.com/martinliu/acme-motd",
+  "issues_url": "https://github.com/martinliu/acme-motd/issues",
+  "dependencies": [
+    {"name":"puppetlabs-stdlib","version_requirement":">= 1.0.0"}
+  ]
+}
+
