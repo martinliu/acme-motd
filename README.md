@@ -26,25 +26,30 @@ It configure /etc/motd content; some server information will be displayed after 
 
 ### What motd affects
 
-* 
-*
-*
+Only /etc/motd file.
 
-### Setup Requirements **OPTIONAL**
+### Setup Requirements
+
+None. 
 
 
 ### Beginning with motd
 
+None.
 
 ## Usage
 
-
+None.
 
 ## Reference
 
+None.
 
 ## Limitations
 
+* RHEL 6
+* RHEL 7
 
 ## Development
 
+None.
